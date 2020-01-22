@@ -153,3 +153,31 @@ a {
 .youtube {
   width: 100%;
 }
+
+/* mobile*/
+@media (max-width: 800px){
+  .aboutuscontainer {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .about {
+    display: inline-block;
+  }
+
+  .eachabout {
+    margin-top: 50px;
+  }
+
+  .eachabout p {
+    text-align: center;
+  }
+
+  .h2about {
+    margin-bottom: 0px;
+  }
+
+  .aboutus {
+    width: 96.5%;
+  }
+}
