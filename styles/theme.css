@@ -1,0 +1,155 @@
+@font-face {
+  font-family: "Worksans";
+  src: url("../fonts/Worksans/Worksans-Light.ttf");
+}
+
+img {
+  width: 100%;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  margin-top: 16px;
+}
+
+header img {
+  width: 220px;
+}
+
+.heading {
+  width: 100%;
+}
+
+header a:hover {
+  color: #464646;
+}
+
+nav ul {
+  text-align: right;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+  font-family: Worksans, sans-serif;
+  font-size: 22px;
+  padding: 14px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #cbcbcb;
+}
+
+.saselogo {
+  margin-left: 5px;
+}
+
+.active {
+  color:black;
+}
+
+.aboutus{
+  padding: 10px;
+  margin-top: 8px;
+  width: 50%;
+}
+
+.about {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.eachabout {
+  flex-basis: 100%;
+  text-align: center;
+  margin: 10px;
+}
+
+.eachabout p {
+  text-align: left;
+}
+
+.about img {
+  width: 50%;
+}
+
+h1 {
+  font-family: Worksans;
+  font-size: 38px;
+}
+
+h2 {
+  font-family: Worksans;
+  font-size: 32px;
+}
+
+h3 {
+  font-family: Worksans;
+  font-size: 24px;
+}
+
+p {
+  font-family: Worksans;
+  font-size: 16px;
+}
+
+.h1about, .h2about {
+  text-align: center;
+}
+
+.aboutus {
+  background-color: #F2F8EC;
+}
+
+.event {
+  display: flex;
+  flex-direction: row;
+}
+
+.eventcontainer {
+  width: 50%;
+}
+
+.eventcontainer img {
+  width: 70%;
+}
+
+footer {
+  text-align: left;
+  margin: 10px;
+}
+
+footer a {
+  color: black;
+}
+
+a:hover {
+  color: #8DC73F;
+}
+
+.aboutuscontainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.events {
+  width: 98.5%;
+  height: 700px;
+  margin: 10px;
+  border: none;
+}
+
+.join {
+  padding: 12px;
+}
+
+a {
+  color: black;
+}
+
+.youtube {
+  width: 100%;
+}
