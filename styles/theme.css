@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Worksans";
-  src: url("../fonts/Worksans/Worksans-Light.ttf");
+  font-family: "Work_Sans";
+  src: url("../fonts/Work_Sans/WorkSans-Light.ttf");
 }
 
 img {
@@ -32,7 +32,7 @@ nav ul {
 nav ul li {
   display: inline-block;
   padding: 10px;
-  font-family: Worksans, sans-serif;
+  font-family: Work_Sans, sans-serif;
   font-size: 22px;
   padding: 14px;
 }
@@ -77,22 +77,22 @@ nav ul li a {
 }
 
 h1 {
-  font-family: Worksans;
+  font-family: Work_Sans;
   font-size: 38px;
 }
 
 h2 {
-  font-family: Worksans;
+  font-family: Work_Sans;
   font-size: 32px;
 }
 
 h3 {
-  font-family: Worksans;
+  font-family: Work_Sans;
   font-size: 24px;
 }
 
 p {
-  font-family: Worksans;
+  font-family: Work_Sans;
   font-size: 16px;
 }
 
